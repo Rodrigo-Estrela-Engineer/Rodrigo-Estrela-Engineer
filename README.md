@@ -1,10 +1,10 @@
 ### Olá!
 
-Olá, me chamo Rodrigo, tenho 17 anos e sou um desenvolvedor front-end jr se tornando full stack.
+Olá, me chamo Rodrigo, tenho 18 anos e sou um desenvolvedor front-end jr se tornando full stack.
 
-Estou no 3EM e tenho interesse na faculdade de engenharia de software.
+Estou cursando Engenharia de Computação no Senac SP.
 
-Me profissionalizei em front-end através do Senai SP e pretendo crescer muito dentro da área.
+Me profissionalizei em front-end através do Senai SP e venho me desenvolvendo na area de eletroeletrônica e design de software
 
 
 Portifolio ->  <https://portifolio-kappa-bay.vercel.app/>

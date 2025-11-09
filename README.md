@@ -6,10 +6,6 @@ Estou cursando Engenharia de Computação no Senac SP.
 
 Me profissionalizei em front-end através do Senai SP e venho me desenvolvendo na area de eletroeletrônica e design de software
 
-
-Portifolio ->  <https://portifolio-kappa-bay.vercel.app/>
-
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake-dark.svg">
